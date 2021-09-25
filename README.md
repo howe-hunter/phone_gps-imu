@@ -13,4 +13,5 @@ most up to date version of file parsing and GPS plotting
 #### data for notebooks
 All data for notebooks has been moved to the vedbcloud0 shared drive
 
-***Be sure to change relevant file paths in notebooks***
+*Be sure to change relevant file paths in notebooks*
+**Sync status:** down (9/24)
